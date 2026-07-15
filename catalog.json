@@ -1,0 +1,1724 @@
+{
+  "catalogVersion": 2,
+  "generatedAt": "2026-07-15T12:00:00+08:00",
+  "minAppVersion": 7,
+  "packages": [
+    {
+      "packageId": "g3-english-q2-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w01-v1.zip",
+      "sha256": "e41043ee5dcf0c9ac7efae751d4c7c1cfd2667e4af5b332c99ed30aee4d773dc",
+      "sizeBytes": 15860,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w01-d01",
+        "english-g3-q2-w01-d03",
+        "english-g3-q2-w01-d04",
+        "english-g3-q2-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w02-v1.zip",
+      "sha256": "8a9479d556705357ee5bac234067387e6e632ee954c416077e8655749649fdf9",
+      "sizeBytes": 15546,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w02-d01",
+        "english-g3-q2-w02-d03",
+        "english-g3-q2-w02-d04",
+        "english-g3-q2-w02-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w03-v1.zip",
+      "sha256": "2d0c56bddc573243d2fbbd691b8e10c7e5edb816bc5abefe6490a3187e5aa660",
+      "sizeBytes": 15394,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w03-d01",
+        "english-g3-q2-w03-d03",
+        "english-g3-q2-w03-d04",
+        "english-g3-q2-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w04-v1.zip",
+      "sha256": "a277ab9d41e83f13f085e903a06c0b854b24d59c0b6db10fd6e22d7357693452",
+      "sizeBytes": 15384,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w04-d01",
+        "english-g3-q2-w04-d03",
+        "english-g3-q2-w04-d04",
+        "english-g3-q2-w04-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w05-v1.zip",
+      "sha256": "553d4a6a06ebd234197f35081a3ca78beefa86cbad90090bfecfa2f65df870fc",
+      "sizeBytes": 15247,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w05-d01",
+        "english-g3-q2-w05-d03",
+        "english-g3-q2-w05-d04",
+        "english-g3-q2-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w06-v1.zip",
+      "sha256": "1271cc6c7be6ad9f43e679837d75a7489fb65c73da695d1a43a9d905c272e9fa",
+      "sizeBytes": 15435,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w06-d01",
+        "english-g3-q2-w06-d03",
+        "english-g3-q2-w06-d04",
+        "english-g3-q2-w06-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q2-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 2,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-english-q2-w07-v1.zip",
+      "sha256": "dce1fad2a67901c463cd0a448c353c95e440b72bd458274de00dee9341f5d6bc",
+      "sizeBytes": 11537,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q2-w07-d01",
+        "english-g3-q2-w07-d03",
+        "english-g3-q2-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w08",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 8,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w08-v1.zip",
+      "sha256": "00e4a13dbfb5acad7730d75cbcf0e97edc44fbe6736fcc68a724288cc1812e77",
+      "sizeBytes": 15347,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w08-d01",
+        "english-g3-q3-w08-d03",
+        "english-g3-q3-w08-d04",
+        "english-g3-q3-w08-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w09",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 9,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w09-v1.zip",
+      "sha256": "05f4f0fae4d669c715757a900cd92e45b777f151e97a3fc8df24e8ffcf4eea72",
+      "sizeBytes": 15444,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w09-d01",
+        "english-g3-q3-w09-d03",
+        "english-g3-q3-w09-d04",
+        "english-g3-q3-w09-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w10",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 10,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w10-v1.zip",
+      "sha256": "76234c960031ab737dbd4b2ec6aed855563adb1fe797d50a24a40d65d8abe504",
+      "sizeBytes": 15391,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w10-d01",
+        "english-g3-q3-w10-d03",
+        "english-g3-q3-w10-d04",
+        "english-g3-q3-w10-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w11",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 11,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w11-v1.zip",
+      "sha256": "9abdb8f6002bed29fd00da0f7b059f9865a557fe02486ef3e81c412bb098982f",
+      "sizeBytes": 15294,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w11-d01",
+        "english-g3-q3-w11-d03",
+        "english-g3-q3-w11-d04",
+        "english-g3-q3-w11-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w12",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 12,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w12-v1.zip",
+      "sha256": "3856008a5787e678e613a799208ed278d921e2bd4455caef8293467e161859cb",
+      "sizeBytes": 15307,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w12-d01",
+        "english-g3-q3-w12-d03",
+        "english-g3-q3-w12-d04",
+        "english-g3-q3-w12-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w13",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 13,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w13-v1.zip",
+      "sha256": "1d0ec32fd49b1e7e7cdb721f4c76b9a834872c8856d02c0c9e9e9ca587918b23",
+      "sizeBytes": 15401,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w13-d01",
+        "english-g3-q3-w13-d03",
+        "english-g3-q3-w13-d04",
+        "english-g3-q3-w13-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-english-q3-w14",
+      "version": 1,
+      "grade": 3,
+      "subject": "ENGLISH",
+      "quarter": 3,
+      "week": 14,
+      "url": "http://10.10.10.33/packages/g3-english-q3-w14-v1.zip",
+      "sha256": "f642581ed7cbea665c3f964e93e6641070106c9f7bf28b79e1cc62822a09b17d",
+      "sizeBytes": 7850,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "english-g3-q3-w14-d01",
+        "english-g3-q3-w14-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q1-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 1,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-filipino-q1-w01-v1.zip",
+      "sha256": "4a8741c9fb330c7d538551d98c7f65a437ca6b8090fe3fc376fc21312762ed26",
+      "sizeBytes": 19314,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q1-w01-d05",
+        "filipino-g3-q1-w01-d01",
+        "filipino-g3-q1-w01-d03",
+        "filipino-g3-q1-w01-d04",
+        "filipino-g3-q1-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q1-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 1,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-filipino-q1-w02-v1.zip",
+      "sha256": "2de7836696a85049f0cc5f9f9e41ec180154c99cb48db884e01ddbd0b9450531",
+      "sizeBytes": 19175,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q1-w02-d05",
+        "filipino-g3-q1-w02-d01",
+        "filipino-g3-q1-w02-d03",
+        "filipino-g3-q1-w02-d04",
+        "filipino-g3-q1-w02-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q1-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 1,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-filipino-q1-w03-v1.zip",
+      "sha256": "897131c20e188c9c45d2099775a44590447221992e09d92768c4b1358745e497",
+      "sizeBytes": 19262,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q1-w03-d05",
+        "filipino-g3-q1-w03-d01",
+        "filipino-g3-q1-w03-d03",
+        "filipino-g3-q1-w03-d04",
+        "filipino-g3-q1-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q2-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 2,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-filipino-q2-w04-v1.zip",
+      "sha256": "23a213009c3743a1894c5d5f2cd7ca7ab3e13afe36e36da89373c0c90bd01566",
+      "sizeBytes": 15511,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q2-w04-d01",
+        "filipino-g3-q2-w04-d03",
+        "filipino-g3-q2-w04-d04",
+        "filipino-g3-q2-w04-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q2-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 2,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-filipino-q2-w05-v1.zip",
+      "sha256": "cfeca89cb0c3ec109748b1f95dd1001d6e4070283eb081c305a8afceaf748c9b",
+      "sizeBytes": 15500,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q2-w05-d01",
+        "filipino-g3-q2-w05-d03",
+        "filipino-g3-q2-w05-d04",
+        "filipino-g3-q2-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q2-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 2,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-filipino-q2-w06-v1.zip",
+      "sha256": "a97add286ceae60dd17e1970735c8dd9017702bdbfa339dc50f5fce0f27236f1",
+      "sizeBytes": 15579,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q2-w06-d01",
+        "filipino-g3-q2-w06-d03",
+        "filipino-g3-q2-w06-d04",
+        "filipino-g3-q2-w06-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q2-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 2,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-filipino-q2-w07-v1.zip",
+      "sha256": "b6513f4de3c7fc6c2255caeba6b25818257510dba32507634b863455374aec6a",
+      "sizeBytes": 15491,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q2-w07-d01",
+        "filipino-g3-q2-w07-d03",
+        "filipino-g3-q2-w07-d04",
+        "filipino-g3-q2-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q3-w08",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 3,
+      "week": 8,
+      "url": "http://10.10.10.33/packages/g3-filipino-q3-w08-v1.zip",
+      "sha256": "397e4f638c5064bf9ec6a0295a0b2ccc757f6fb6208fbbaea80438590168bd5a",
+      "sizeBytes": 19325,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q3-w08-d05",
+        "filipino-g3-q3-w08-d01",
+        "filipino-g3-q3-w08-d03",
+        "filipino-g3-q3-w08-d04",
+        "filipino-g3-q3-w08-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q3-w09",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 3,
+      "week": 9,
+      "url": "http://10.10.10.33/packages/g3-filipino-q3-w09-v1.zip",
+      "sha256": "180a3a14a0b5d0e44ff558f2835153324f445b66c4be6c5ef8abe35f3bd541e6",
+      "sizeBytes": 19209,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q3-w09-d05",
+        "filipino-g3-q3-w09-d01",
+        "filipino-g3-q3-w09-d03",
+        "filipino-g3-q3-w09-d04",
+        "filipino-g3-q3-w09-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q3-w10",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 3,
+      "week": 10,
+      "url": "http://10.10.10.33/packages/g3-filipino-q3-w10-v1.zip",
+      "sha256": "90de85f62310a1f84d0b7960a172dbf37853b7ab0efc6a317314deaea75d88f6",
+      "sizeBytes": 19224,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q3-w10-d05",
+        "filipino-g3-q3-w10-d01",
+        "filipino-g3-q3-w10-d03",
+        "filipino-g3-q3-w10-d04",
+        "filipino-g3-q3-w10-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q4-w11",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 4,
+      "week": 11,
+      "url": "http://10.10.10.33/packages/g3-filipino-q4-w11-v1.zip",
+      "sha256": "9ed359d5c2a219781e95740da030266c92057dbbcfeaebb063f6a05651546a7b",
+      "sizeBytes": 15450,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q4-w11-d01",
+        "filipino-g3-q4-w11-d03",
+        "filipino-g3-q4-w11-d04",
+        "filipino-g3-q4-w11-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q4-w12",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 4,
+      "week": 12,
+      "url": "http://10.10.10.33/packages/g3-filipino-q4-w12-v1.zip",
+      "sha256": "b4463d9b200ad9b5446a2d8151ece37479855dcc75e321b39ae32e92f040042f",
+      "sizeBytes": 15434,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q4-w12-d01",
+        "filipino-g3-q4-w12-d03",
+        "filipino-g3-q4-w12-d04",
+        "filipino-g3-q4-w12-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q4-w13",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 4,
+      "week": 13,
+      "url": "http://10.10.10.33/packages/g3-filipino-q4-w13-v1.zip",
+      "sha256": "c50c65cc10aa6deda7de3dad77d007386d1ee6b555553a7ef816d0dc752e6ded",
+      "sizeBytes": 15512,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q4-w13-d01",
+        "filipino-g3-q4-w13-d03",
+        "filipino-g3-q4-w13-d04",
+        "filipino-g3-q4-w13-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q4-w14",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 4,
+      "week": 14,
+      "url": "http://10.10.10.33/packages/g3-filipino-q4-w14-v1.zip",
+      "sha256": "3822b67b5c036dd96ac7b3fd571d12709e8c07a21a1da0aee59143a274e59e5c",
+      "sizeBytes": 15515,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q4-w14-d01",
+        "filipino-g3-q4-w14-d03",
+        "filipino-g3-q4-w14-d04",
+        "filipino-g3-q4-w14-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-filipino-q4-w15",
+      "version": 1,
+      "grade": 3,
+      "subject": "FILIPINO",
+      "quarter": 4,
+      "week": 15,
+      "url": "http://10.10.10.33/packages/g3-filipino-q4-w15-v1.zip",
+      "sha256": "f6cd54083afc5b1e76a79827bcf90bc9945c82989d5bf87c058392ac8da8856d",
+      "sizeBytes": 4220,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "filipino-g3-q4-w15-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q1-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 1,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q1-w01-v1.zip",
+      "sha256": "966ba006c37ae9e7b5f115c062b259e771536b6b1161da086461377ae9b3a82b",
+      "sizeBytes": 19776,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q1-w01-d05",
+        "gmrc-g3-q1-w01-d01",
+        "gmrc-g3-q1-w01-d03",
+        "gmrc-g3-q1-w01-d04",
+        "gmrc-g3-q1-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q1-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 1,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q1-w02-v1.zip",
+      "sha256": "7271521fe5e519481a3cfd6cd0bb59c83de8b6811ff899a66af2899c94431881",
+      "sizeBytes": 4284,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q1-w02-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q2-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 2,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q2-w03-v1.zip",
+      "sha256": "66f3afcd91fa8b634b5be48892f0e8bf4ed5371212f1688c4ccf18a6b6223fbf",
+      "sizeBytes": 19639,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q2-w03-d05",
+        "gmrc-g3-q2-w03-d01",
+        "gmrc-g3-q2-w03-d03",
+        "gmrc-g3-q2-w03-d04",
+        "gmrc-g3-q2-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q2-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 2,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q2-w04-v1.zip",
+      "sha256": "4e7646451730f687df4646f1ac9f4af02bbd5519fecc326b21a39d73cf489b05",
+      "sizeBytes": 4308,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q2-w04-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q3-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 3,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q3-w05-v1.zip",
+      "sha256": "88ce97ebeb4bc862346f60e315872896223ed0396ef2a5718f34551276bc605a",
+      "sizeBytes": 19591,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q3-w05-d05",
+        "gmrc-g3-q3-w05-d01",
+        "gmrc-g3-q3-w05-d03",
+        "gmrc-g3-q3-w05-d04",
+        "gmrc-g3-q3-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q3-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 3,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q3-w06-v1.zip",
+      "sha256": "f463a3179d8d16d943029ad19b44ea759ea62a074ab033e5b5317a05bb836bb7",
+      "sizeBytes": 4236,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q3-w06-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q4-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 4,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q4-w07-v1.zip",
+      "sha256": "700c3a367def82b2294cbaa0c47430b75e6c5d06637a77c1667cce0eb0056de4",
+      "sizeBytes": 19727,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q4-w07-d05",
+        "gmrc-g3-q4-w07-d01",
+        "gmrc-g3-q4-w07-d03",
+        "gmrc-g3-q4-w07-d04",
+        "gmrc-g3-q4-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-gmrc-q4-w08",
+      "version": 1,
+      "grade": 3,
+      "subject": "GMRC",
+      "quarter": 4,
+      "week": 8,
+      "url": "http://10.10.10.33/packages/g3-gmrc-q4-w08-v1.zip",
+      "sha256": "1d67d4bc03269fdf37f21ef6bad2ae3b4a08dd4a2f6daa7da9118720e7954bea",
+      "sizeBytes": 4252,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "gmrc-g3-q4-w08-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q1-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 1,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q1-w01-v1.zip",
+      "sha256": "eb12ee774347149f26381a53c5bc8fd131852b418d3c6e84e5e52237ca4527a4",
+      "sizeBytes": 11956,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q1-w01-d01",
+        "makabansa-g3-q1-w01-d03",
+        "makabansa-g3-q1-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q2-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 2,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q2-w02-v1.zip",
+      "sha256": "313f90f82c55e83eed26a4f0a0f39833d7f9819468f03deff190cacf931b704e",
+      "sizeBytes": 15768,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q2-w02-d01",
+        "makabansa-g3-q2-w02-d03",
+        "makabansa-g3-q2-w02-d04",
+        "makabansa-g3-q2-w02-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q3-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 3,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q3-w03-v1.zip",
+      "sha256": "c394c3705d99a00df4bb022de80ddf7edc175cc0b9e77cd13f01084aaeec2531",
+      "sizeBytes": 11790,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q3-w03-d01",
+        "makabansa-g3-q3-w03-d03",
+        "makabansa-g3-q3-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q4-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 4,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q4-w04-v1.zip",
+      "sha256": "a626d2f102ed524e86326f01a117ef7a85092c8a364855afd06a9d751afe75f3",
+      "sizeBytes": 15666,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q4-w04-d01",
+        "makabansa-g3-q4-w04-d03",
+        "makabansa-g3-q4-w04-d04",
+        "makabansa-g3-q4-w04-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q4-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 4,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q4-w05-v1.zip",
+      "sha256": "5e4630b17f71dff22cbab0dd7825c99eb31599e374a23ef0aa3e00e00fdac4ce",
+      "sizeBytes": 15579,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q4-w05-d01",
+        "makabansa-g3-q4-w05-d03",
+        "makabansa-g3-q4-w05-d04",
+        "makabansa-g3-q4-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q4-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 4,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q4-w06-v1.zip",
+      "sha256": "046cf5e49c4a3e9ab04054952acfa1f4ea2007f46b3402c83e1844e05bba7de4",
+      "sizeBytes": 15691,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q4-w06-d01",
+        "makabansa-g3-q4-w06-d03",
+        "makabansa-g3-q4-w06-d04",
+        "makabansa-g3-q4-w06-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-makabansa-q4-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "MAKABANSA",
+      "quarter": 4,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-makabansa-q4-w07-v1.zip",
+      "sha256": "5f20ee13a28165e58807c2fd5ca9c1fd914ff4c7e55fbe2b2f1b3f949ba3e84f",
+      "sizeBytes": 15621,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "makabansa-g3-q4-w07-d01",
+        "makabansa-g3-q4-w07-d03",
+        "makabansa-g3-q4-w07-d04",
+        "makabansa-g3-q4-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q1-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 1,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q1-w01-v1.zip",
+      "sha256": "d72162b3cee69ee2191b322d8792b3fcbb332c6c1f40d8490aa7fcde3b15193d",
+      "sizeBytes": 16703,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q1-w01-d01",
+        "mathematics-g3-q1-w01-d03",
+        "mathematics-g3-q1-w01-d04",
+        "mathematics-g3-q1-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q1-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 1,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q1-w02-v1.zip",
+      "sha256": "82fc3f1e293477c25fa75d6c2cf5d0e3ceff4056c92f293b207d95cd1b1b31b5",
+      "sizeBytes": 15740,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q1-w02-d01",
+        "mathematics-g3-q1-w02-d03",
+        "mathematics-g3-q1-w02-d04",
+        "mathematics-g3-q1-w02-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q2-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 2,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q2-w03-v1.zip",
+      "sha256": "5f8eefcc2d773ebeeb01138594f6d5b643bd1ad99203f7e8331516770b002a6b",
+      "sizeBytes": 19502,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q2-w03-d05",
+        "mathematics-g3-q2-w03-d01",
+        "mathematics-g3-q2-w03-d03",
+        "mathematics-g3-q2-w03-d04",
+        "mathematics-g3-q2-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q2-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 2,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q2-w04-v1.zip",
+      "sha256": "355af2d657999da03d79bcbc2688390e5b00c88e1cdb8650d13a588acb3b7d75",
+      "sizeBytes": 19566,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q2-w04-d05",
+        "mathematics-g3-q2-w04-d01",
+        "mathematics-g3-q2-w04-d03",
+        "mathematics-g3-q2-w04-d04",
+        "mathematics-g3-q2-w04-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q3-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 3,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q3-w05-v1.zip",
+      "sha256": "1267162157cc96bab86a53aaaf10ad408a409fa6186f1df3b0ea4affba72ece5",
+      "sizeBytes": 15679,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q3-w05-d01",
+        "mathematics-g3-q3-w05-d03",
+        "mathematics-g3-q3-w05-d04",
+        "mathematics-g3-q3-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q3-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 3,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q3-w06-v1.zip",
+      "sha256": "f6cd5a2ff5942018e266d0441bda23d1a1cacb78585d400f5a11f51876a12e9c",
+      "sizeBytes": 15696,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q3-w06-d01",
+        "mathematics-g3-q3-w06-d03",
+        "mathematics-g3-q3-w06-d04",
+        "mathematics-g3-q3-w06-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q3-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 3,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q3-w07-v1.zip",
+      "sha256": "1b70e19aea8014b56ab3c3d173976ec0cb9ff2f1253fd111be4c7336dd239f6c",
+      "sizeBytes": 15660,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q3-w07-d01",
+        "mathematics-g3-q3-w07-d03",
+        "mathematics-g3-q3-w07-d04",
+        "mathematics-g3-q3-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q4-w08",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 4,
+      "week": 8,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q4-w08-v1.zip",
+      "sha256": "5e69a76e444000830349bca4947c074c75c93ff4a5c345f7db6fc968e6d3f99a",
+      "sizeBytes": 15805,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q4-w08-d01",
+        "mathematics-g3-q4-w08-d03",
+        "mathematics-g3-q4-w08-d04",
+        "mathematics-g3-q4-w08-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-mathematics-q4-w09",
+      "version": 1,
+      "grade": 3,
+      "subject": "MATHEMATICS",
+      "quarter": 4,
+      "week": 9,
+      "url": "http://10.10.10.33/packages/g3-mathematics-q4-w09-v1.zip",
+      "sha256": "4857b1578e1f442809cd951750e21b9f21fa68cc655ba878119d996a15943b18",
+      "sizeBytes": 15689,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "mathematics-g3-q4-w09-d01",
+        "mathematics-g3-q4-w09-d03",
+        "mathematics-g3-q4-w09-d04",
+        "mathematics-g3-q4-w09-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q1-w01",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 1,
+      "week": 1,
+      "url": "http://10.10.10.33/packages/g3-science-q1-w01-v1.zip",
+      "sha256": "ad3a6b1446534a00252a3c90805fa88136b7648e8b24200578f82022ee51db9d",
+      "sizeBytes": 20565,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q1-w01-d05",
+        "science-g3-q1-w01-d01",
+        "science-g3-q1-w01-d03",
+        "science-g3-q1-w01-d04",
+        "science-g3-q1-w01-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q1-w02",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 1,
+      "week": 2,
+      "url": "http://10.10.10.33/packages/g3-science-q1-w02-v1.zip",
+      "sha256": "01889784b527fd15eb0b3387b317c6d2496bcf240427e87db3d7e51ae8292eed",
+      "sizeBytes": 8221,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q1-w02-d01",
+        "science-g3-q1-w02-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q2-w03",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 2,
+      "week": 3,
+      "url": "http://10.10.10.33/packages/g3-science-q2-w03-v1.zip",
+      "sha256": "bcb7cea2b12d407d89c512a941dfddba1ab30c441abc544ebce3ecc15a04e3e8",
+      "sizeBytes": 15976,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q2-w03-d05",
+        "science-g3-q2-w03-d03",
+        "science-g3-q2-w03-d04",
+        "science-g3-q2-w03-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q2-w04",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 2,
+      "week": 4,
+      "url": "http://10.10.10.33/packages/g3-science-q2-w04-v1.zip",
+      "sha256": "c42dfd82c9d52df6e6741cfebb2a32882ce7bc84162fbb4602b8433fea4feb71",
+      "sizeBytes": 4305,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q2-w04-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q3-w05",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 3,
+      "week": 5,
+      "url": "http://10.10.10.33/packages/g3-science-q3-w05-v1.zip",
+      "sha256": "fdd366ee1fadc5e33cdc05f27d4d811eaa6cebbec2d5b7833b516da615523ace",
+      "sizeBytes": 11934,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q3-w05-d03",
+        "science-g3-q3-w05-d04",
+        "science-g3-q3-w05-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q3-w06",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 3,
+      "week": 6,
+      "url": "http://10.10.10.33/packages/g3-science-q3-w06-v1.zip",
+      "sha256": "00175c2f15587b44ed1a42d937269629617a0eda117ebe5ea0fada6fcb272131",
+      "sizeBytes": 8076,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q3-w06-d01",
+        "science-g3-q3-w06-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q4-w07",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 4,
+      "week": 7,
+      "url": "http://10.10.10.33/packages/g3-science-q4-w07-v1.zip",
+      "sha256": "31c34c9a0cf2bc0f0d5470dcf97b37baf150f0fded6d87a4ce36a6e76030c699",
+      "sizeBytes": 11852,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q4-w07-d03",
+        "science-g3-q4-w07-d04",
+        "science-g3-q4-w07-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q4-w08",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 4,
+      "week": 8,
+      "url": "http://10.10.10.33/packages/g3-science-q4-w08-v1.zip",
+      "sha256": "5cc15388d58f9d063ad165f7708b8dfcb5e8f4faed00d182a29656674beeb67a",
+      "sizeBytes": 15761,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q4-w08-d01",
+        "science-g3-q4-w08-d03",
+        "science-g3-q4-w08-d04",
+        "science-g3-q4-w08-d02"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    },
+    {
+      "packageId": "g3-science-q4-w09",
+      "version": 1,
+      "grade": 3,
+      "subject": "SCIENCE",
+      "quarter": 4,
+      "week": 9,
+      "url": "http://10.10.10.33/packages/g3-science-q4-w09-v1.zip",
+      "sha256": "8c69e4ba456cb56f5a13c189464b21f98118843407c441c5dad3771a297d0366",
+      "sizeBytes": 4277,
+      "minimumAppVersion": 7,
+      "requiredCapabilities": [
+        "ANIMATED_EXPLANATION_V1",
+        "MULTIPLE_CHOICE_V1",
+        "SORT_AND_CLASSIFY_V1",
+        "HOTSPOT_IMAGE_V1",
+        "MATCHING_PAIRS_V1",
+        "SEQUENCE_BUILDER_V1"
+      ],
+      "lessonIds": [
+        "science-g3-q4-w09-d01"
+      ],
+      "educatorValidated": false,
+      "releaseStatus": "REQUIRES_EDUCATOR_REVIEW"
+    }
+  ]
+}
