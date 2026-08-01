@@ -26,4 +26,21 @@ Each `.zip` package contains:
 - `lessons/*.json` — Individual lesson files
 - `assets/*.svg` — Visual assets for lessons
 
-Content is served via LAN-only Caddy server to the Android app.
+## Delivery: bundled in the APK (no server)
+
+Content is **bundled inside the Android APK at release time** — there is no
+content server and the app never downloads content at runtime.
+
+Release flow:
+
+1. Author/update lessons here (the source of truth for content).
+2. On each Maxine's World release, the current month/quarter packages are
+   converted into the app's playable pack
+   (`android/tools/convert_slm_to_pack.py` in the app repo, which ingests
+   the SLM source) and committed into `app/src/main/assets/content-pack/`.
+3. The signed APK ships with all bundled lessons — offline-first, child-safe,
+   no network dependency, no tracking of what the child loads.
+
+A content update = a new APK release. This is deliberate: the APK is the
+single immutable versioning unit, and install/upgrade atomically replaces
+content.
